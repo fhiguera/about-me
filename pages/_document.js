@@ -2,8 +2,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Fernando Higuera',
-    description: 'Hello, I am F, I am a growth leader in information technology, e-commerce, and digital transformation. My secret power is creating value and bringing structure and success to complex situations deemed impossible',
+    title: 'Fernando Higuera | Redefining Innovation, Sustainability, and Leadership',
+    description: 'Fernando Higuera redefines leadership by driving $1B+ in growth, pioneering AI and quantum innovations, and investing in sustainability. Explore how bold ideas create lasting impact and transform industries.',
     image: 'https://cloud.appwrite.io/v1/storage/buckets/shareable/files/64c18b294849cd0148be/view?project=fhiguera'
   }
 
